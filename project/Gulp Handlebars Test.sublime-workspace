@@ -1,0 +1,1231 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cons",
+				"console"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"pro",
+				"prop"
+			],
+			[
+				"get",
+				"getName"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"back",
+				"background-position\tproperty"
+			],
+			[
+				"_ca",
+				"_cardOffset2"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"mas",
+				"maskDiv"
+			],
+			[
+				"_sta",
+				"_stageH"
+			],
+			[
+				"_st",
+				"_startY"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"card",
+				"card1"
+			],
+			[
+				"_t",
+				"_txtSp"
+			],
+			[
+				"t2",
+				"_t2"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"stro",
+				"strokeDashoffset"
+			],
+			[
+				"_",
+				"_path"
+			],
+			[
+				"ea",
+				"earnPath"
+			],
+			[
+				"top",
+				"topStroke"
+			],
+			[
+				"set",
+				"setBorderPosition"
+			],
+			[
+				"_stage",
+				"_stageW"
+			],
+			[
+				"frame",
+				"frame3"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"cta",
+				"ctaShine"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"tra",
+				"transformOrigin"
+			],
+			[
+				"code",
+				"codeScaleDown"
+			],
+			[
+				"br",
+				"brickDiv"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"Ma",
+				"Math"
+			],
+			[
+				"fra",
+				"_frame2Pause"
+			],
+			[
+				"cod",
+				"codeStartPos"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"loop",
+				"loopAction"
+			],
+			[
+				"tr",
+				"trace"
+			],
+			[
+				"loo",
+				"loops"
+			],
+			[
+				"op",
+				"opacity\tproperty"
+			],
+			[
+				"stroke",
+				"stroke1"
+			],
+			[
+				"but",
+				"burstPos"
+			],
+			[
+				"y",
+				"y1"
+			],
+			[
+				"pr",
+				"prodPos"
+			],
+			[
+				"_pr",
+				"_prodStartDistance"
+			],
+			[
+				"bac",
+				"background-size\tproperty"
+			],
+			[
+				"co",
+				"config"
+			],
+			[
+				"log",
+				"logo2"
+			],
+			[
+				"_in",
+				"_inline"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"prop",
+				"propsArray"
+			],
+			[
+				"_val",
+				"_value"
+			],
+			[
+				"f1",
+				"f1TxtParent"
+			],
+			[
+				"_li",
+				"_lineArray"
+			],
+			[
+				"de",
+				"delay"
+			],
+			[
+				"sta",
+				"startPos"
+			],
+			[
+				"_log",
+				"_logoVert"
+			],
+			[
+				"pre",
+				"previousBreak"
+			],
+			[
+				"_e",
+				"_endWithBreak"
+			],
+			[
+				"has",
+				"_hasBreak"
+			],
+			[
+				"wh",
+				"white-space\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"off",
+				"offsetWidth"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"vis",
+				"visibile"
+			],
+			[
+				"_lo",
+				"_logoVert"
+			],
+			[
+				"lo",
+				"logoHor"
+			],
+			[
+				"vi",
+				"visibile"
+			],
+			[
+				"logo-con",
+				"logo-container"
+			],
+			[
+				"ban",
+				"bannerSize"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"clas",
+				"class\tAttr"
+			],
+			[
+				"auto",
+				"autoAlpha"
+			],
+			[
+				"_r",
+				"_rotationX"
+			],
+			[
+				"f1t",
+				"f1TxtParent"
+			],
+			[
+				"rot",
+				"rotCheck"
+			],
+			[
+				"or",
+				"orange"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"str",
+				"str"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"las",
+				"lastLine"
+			],
+			[
+				"repl",
+				"replace"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"text",
+				"text-rendering"
+			],
+			[
+				"coo",
+				"coolgray1"
+			],
+			[
+				"ctaB",
+				"ctaBtnColor"
+			],
+			[
+				"replayI",
+				"replayImg"
+			],
+			[
+				"mak",
+				"makeObj"
+			],
+			[
+				"replay",
+				"replayArrow"
+			],
+			[
+				"new",
+				"newR"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bg",
+				"bgStartColor"
+			],
+			[
+				"TWeen",
+				"TweenMax"
+			],
+			[
+				"fo",
+				"force3D"
+			],
+			[
+				"nw",
+				"nworange"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"col",
+				"colorCheck"
+			],
+			[
+				"is",
+				"isLogoFlip"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"Color",
+				"COLOR"
+			],
+			[
+				"logo",
+				"logoEagle"
+			],
+			[
+				"w",
+				"wordmark"
+			],
+			[
+				"tall",
+				"tallDiv"
+			],
+			[
+				"ta",
+				"tallDiv"
+			],
+			[
+				"txt",
+				"txtIn"
+			],
+			[
+				"getC",
+				"getComputedStyle"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"rep",
+				"replay"
+			],
+			[
+				"end",
+				"endData"
+			],
+			[
+				"colore",
+				"coloredTxt"
+			],
+			[
+				"line",
+				"lineArray"
+			],
+			[
+				"color",
+				"colorize"
+			],
+			[
+				"spa",
+				"spanClass"
+			],
+			[
+				"se",
+				"separator"
+			],
+			[
+				"spl",
+				"splitStringBr"
+			],
+			[
+				"ini",
+				"initBanner"
+			],
+			[
+				"visi",
+				"visibility"
+			],
+			[
+				"d",
+				"div"
+			],
+			[
+				"fr",
+				"frame2"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"on",
+				"replayOn"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"sp",
+				"sprite-jpg"
+			],
+			[
+				"sprite-p",
+				"sprite-png"
+			],
+			[
+				"sho",
+				"showMe"
+			],
+			[
+				"class",
+				"classList"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 4577,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/dist/Restore_Renew_Target_300x250/Restore_Renew_Target_300x250.html",
+			"settings":
+			{
+				"buffer_size": 14719,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/lib/html/Restore_Renew.hbs",
+			"settings":
+			{
+				"buffer_size": 1701,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/lib/css/global.css.hbs",
+			"settings":
+			{
+				"buffer_size": 585,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/config.json",
+			"settings":
+			{
+				"buffer_size": 648,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"1",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: <?php … ?>"
+			],
+			[
+				"ht",
+				"HTMLPrettify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/dist",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/dist/Restore_Renew_Target_300x250",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/banners",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/lib",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/lib/css",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/lib/js",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/lib/svg"
+	],
+	"file_history":
+	[
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/lib/js/Restore_Renew_300x250.js.hbs",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/lib/js/Restore_Renew_160x600.js.hbs",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/banners/Restore_Renew_Walgreens_300x250/Restore_Renew_Walgreens_300x250.css.hbs",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/banners/Restore_Renew_Target_320x50/Restore_Renew_Target_320x50.css.hbs",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/lib/css/Restore_Renew_320x50.css.hbs",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/lib/js/Restore_Renew_320x50.js.hbs",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/lib/js/Restore_Renew_Target_300x250.js.hbs",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/lib/css/Restore_Renew_728x90.css.hbs",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/banners/Restore_Renew_Ulta_320x50/Restore_Renew_Ulta_320x50.css.hbs",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/banners/Restore_Renew_Target_300x250/Restore_Renew_Target_300x250.css.hbs",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/banners/Restore_Renew_Target_160x600/Restore_Renew_Target_160x600.css.hbs",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/config.json",
+		"/Users/eric.howell/Library/Application Support/Sublime Text 3/Packages/User/hbs-js.sublime-syntax",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/lib/html/Restore_Renew.hbs",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/dist/Restore_Renew_Target_160x600/Restore_Renew_Target_160x600.html",
+		"/Users/eric.howell/Library/Application Support/Sublime Text 3/Cache/JavaScript/JavaScript.sublime-syntax.rcache",
+		"/Users/eric.howell/Library/Application Support/Sublime Text 3/Cache/JavaScript/JavaScript.sublime-syntax.cache",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/lib/css/Restore_Renew_300x250.css.hbs",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/lib/css/Restore_Renew_160x600.css.hbs",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/lib/css/global.css.hbs",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/lib/js/template.js.hbs",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/lib/js/template.hbs",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/banners/Restore_Renew_Target_160x600/Restore_Renew_Target_160x600.css",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/lib/js/replay.js.hbs",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/banners/Restore_Renew_Target_300x250/Restore_Renew_Target_300x250.hbs",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/banners/Restore_Renew_Target_160x600/Restore_Renew_Target_160x600.hbs",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/lib/js/replay.hbs",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/banners/Restore_Renew_Target_300x250/Restore_Renew_Target_300x250.js",
+		"/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/banners/Restore_Renew_Target_160x600/Restore_Renew_Target_160x600.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Multicard/Multicard_320x50/src/Multicard_320x50.css",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Multicard/Multicard_160x600/src/Multicard_160x600.css",
+		"/Users/eric.howell/Documents/_H5_WORK/Boots/70684 No7 Labs Walgreens Launch Banners/banners/Walgreens_Launch_160x600/Walgreens_Launch_160x600.html",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/gulpfile.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/68326 AXP OPEN Acquisition Campaign Refresh Batch 2 /Prototype DOM/Blue-Business_300x250.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Hilton/Hilton_320x50/src/Hilton_320x50.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Hilton/Hilton_320x50/src/Hilton_320x50.html",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Hilton/Hilton_320x50/src/Hilton_320x50.css",
+		"/Users/eric.howell/Documents/_H5_WORK/Nationwide/70748 Small Biz Banners/lib/js/makeTxtDivMasks.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Hilton/Hilton_728x90/src/Hilton_728x90.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Hilton/Hilton_728x90/src/Hilton_728x90.css",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Hilton/Hilton_728x90/src/Hilton_728x90.html",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Hilton/Hilton_970x250/src/Hilton_970x250.html",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Hilton/Hilton_970x250/src/Hilton_970x250.css",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/lib/css/global.css",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Hilton/Hilton_970x250/src/Hilton_970x250.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Hilton/Hilton_300x600/src/Hilton_300x600.html",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Hilton/Hilton_300x600/src/Hilton_300x600.css",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Hilton/Hilton_160x600/src/Hilton_160x600.css",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Hilton/Hilton_300x600/src/Hilton_300x600.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Hilton/Hilton_160x600/src/Hilton_160x600.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Hilton/Hilton_300x250/src/Hilton_300x250.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/lib/js/hiltonReplayAni.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/config.json",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Hilton/Hilton_160x600/src/Hilton_160x600.html",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Multicard/Multicard_970x250/src/Multicard_970x250.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Multicard/Multicard_300x600/src/Multicard_300x600.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Multicard/Multicard_160x600/src/Multicard_160x600.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/lib/js/txtLineAnimationLeader.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Multicard/Multicard_300x250/src/Multicard_300x250.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Multicard/Multicard_320x50/src/Multicard_320x50.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Multicard/Multicard_320x50/src/Multicard_320x50.html",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Multicard/Multicard_728x90/src/Multicard_728x90.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Multicard/Multicard_728x90/src/Multicard_728x90.css",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/project/Blue_Business_Plus_Offer_728x90_final/js/script.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/lib/js/txtLineAnimationHorz.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/lib/js/makeTxtDivMasks.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/lib/js/txtLineAnimationVert.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Multicard/Multicard_728x90/src/Multicard_728x90.html",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/lib/js/utilities.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/lib/js/borderAni.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/lib/js/svgHandwritingAni.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/lib/js/ctaShineAni.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Multicard/Multicard_970x250/src/Multicard_970x250.css",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Multicard/Multicard_970x250/src/Multicard_970x250.html",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Multicard/Multicard_300x600/src/Multicard_300x600.css",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Multicard/Multicard_300x600/src/Multicard_300x600.html",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/project/Delta_Business_Reserve_300x250_1_final/style/style.css",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Multicard/Multicard_160x600/dist/Multicard_160x600.html",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/lib/svg/amex_replay_white.svg",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/lib/svg/amex_replay_grey.svg",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Multicard/Multicard_160x600/src/Multicard_160x600.html",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Hilton/Hilton_300x250/src/Hilton_300x250.css",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/lib/js/setSvgPathLengths.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/lib/js/replayTl.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/lib/js/txtLineAnimation.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Hilton/Hilton_300x250/src/Hilton_300x250.html",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/project/Delta_Business_Reserve_300x250_1_final/js/script.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/lib/svg/earn.svg",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/lib/svg/getaway.svg",
+		"/Volumes/home/CloudStation/_WORK/70372 GBS Phase 4/banners/Hilton/Hilton_300x250/src/Hilton_300x250.css",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/PSD/earn_paths.svg",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Multicard/Multicard_300x250/src/Multicard_300x250.html",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Hilton/Hilton_300x250/dist/Hilton_300x250.html",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Multicard/Multicard_300x250/src/Multicard_300x250.css",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/banners/Multicard/Multicard_300x250/dist/Multicard_300x250.html",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/lib/svg/replayVector.svg",
+		"/Users/eric.howell/Documents/_H5_WORK/Amex/70372 GBS Phase 4/project/Delta_Business_Reserve_300x250_1_final/Delta_Business_Reserve_300x250_1.html",
+		"/Users/eric.howell/Documents/_H5_WORK/Siemens/70372 Fortune Brainstorm/lib/css/global.css",
+		"/Users/eric.howell/Documents/_H5_WORK/Siemens/70372 Fortune Brainstorm/banners/Siemens-Fortune-Brainstorm_320x50/src/Siemens-Fortune-Brainstorm_320x50.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Siemens/70372 Fortune Brainstorm/banners/Siemens-Fortune-Brainstorm_300x250/src/Siemens-Fortune-Brainstorm_300x250.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Siemens/70372 Fortune Brainstorm/banners/Siemens-Fortune-Brainstorm_728x90/src/Siemens-Fortune-Brainstorm_728x90.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Siemens/70372 Fortune Brainstorm/dist/Siemens-Fortune-Brainstorm_300x250_final/Siemens-Fortune-Brainstorm_300x250.html",
+		"/Users/eric.howell/Documents/_H5_WORK/Siemens/70372 Fortune Brainstorm/banners/Siemens-Fortune-Brainstorm_300x250/src/Siemens-Fortune-Brainstorm_300x250.html",
+		"/Users/eric.howell/Documents/_H5_WORK/Siemens/70372 Fortune Brainstorm/banners/Siemens-Fortune-Brainstorm_300x250/src/Siemens-Fortune-Brainstorm_300x250.css",
+		"/Users/eric.howell/Documents/_H5_WORK/Siemens/70372 Fortune Brainstorm/banners/Siemens-Fortune-Brainstorm_320x50/src/Siemens-Fortune-Brainstorm_320x50.css",
+		"/Users/eric.howell/Documents/_H5_WORK/Siemens/70372 Fortune Brainstorm/banners/Siemens-Fortune-Brainstorm_728x90/src/Siemens-Fortune-Brainstorm_728x90.css",
+		"/Users/eric.howell/Documents/_H5_WORK/Siemens/70372 Fortune Brainstorm/banners/Siemens-Fortune-Brainstorm_300x250/dist/Siemens-Fortune-Brainstorm_300x250.html",
+		"/Users/eric.howell/Documents/_H5_WORK/Siemens/70372 Fortune Brainstorm/package.json",
+		"/Users/eric.howell/Documents/_H5_WORK/Siemens/70372 Fortune Brainstorm/config.json",
+		"/Users/eric.howell/Documents/_H5_WORK/Siemens/70372 Fortune Brainstorm/lib/js/txtLineAnimation.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Siemens/70372 Fortune Brainstorm/project/IMTS_300x250_2018-08-20_23_06_22/IMTS_300x250.html",
+		"/Users/eric.howell/Documents/_H5_WORK/Siemens/70372 Fortune Brainstorm/lib/js/makeDivMasks.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Siemens/70372 Fortune Brainstorm/banners/Siemens-Fortune-Brainstorm_320x50/src/Siemens-Fortune-Brainstorm_320x50.html",
+		"/Users/eric.howell/Documents/_H5_WORK/Siemens/70372 Fortune Brainstorm/banners/Siemens-Fortune-Brainstorm_728x90/src/Siemens-Fortune-Brainstorm_728x90.html",
+		"/Users/eric.howell/Documents/_H5_WORK/Siemens/70372 Fortune Brainstorm/lib/js/replay.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Siemens/70372 Fortune Brainstorm/lib/js/looping.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Siemens/70372 Fortune Brainstorm/gulpfile.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Siemens/70372 Fortune Brainstorm/banners/Siemens-Fortune-Brainstorm_728x90/dist/Siemens-Fortune-Brainstorm_728x90.html",
+		"/Users/eric.howell/Documents/_H5_WORK/Siemens/70372 Fortune Brainstorm/banners/Siemens-Fortune-Brainstorm_728x90/src/Siemens_Fortune_Brainstorm_728x90.css",
+		"/Users/eric.howell/Documents/_H5_WORK/Siemens/70372 Fortune Brainstorm/banners/Siemens-Fortune-Brainstorm_728x90/src/Siemens_Fortune_Brainstorm_728x90.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Siemens/70372 Fortune Brainstorm/lib/js/makeMultiMasks.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Siemens/70372 Fortune Brainstorm/lib/js/replayer.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Siemens/70372 Fortune Brainstorm/lib/siemens_IfL_logo.svg",
+		"/Users/eric.howell/Documents/_H5_WORK/Siemens/70372 Fortune Brainstorm/lib/js/utilities.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Boots/70396 No7 Banners/banners/Restore_Renew_728x90_Walgreens/src/Restore_Renew_728x90_Walgreens.css",
+		"/Users/eric.howell/Documents/_H5_WORK/Boots/70396 No7 Banners/lib/css/Restore_Renew_728x90.css",
+		"/Users/eric.howell/Documents/_H5_WORK/Boots/70396 No7 Banners/lib/js/Restore_Renew_728x90.js",
+		"/Users/eric.howell/Documents/_H5_WORK/Boots/70396 No7 Banners/banners/Restore_Renew_728x90_Walgreens/src/Restore_Renew_728x90_Walgreens.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"return",
+			" :",
+			":",
+			"{",
+			"\t\t\"width\"",
+			"logo",
+			"Target",
+			"replayAnim",
+			"replayed",
+			"replayTl",
+			"replayBtn",
+			"replay",
+			"600",
+			"160",
+			":",
+			"Target",
+			"= ()",
+			"=>",
+			"zipFiles",
+			"buildAll",
+			"obj",
+			"this,",
+			"sharedFile",
+			"function",
+			"this",
+			".js",
+			"example-c",
+			"\"",
+			"boobs",
+			"banner",
+			"> ",
+			">",
+			"htmlOptions",
+			"fileName",
+			"dynamictemplate",
+			"title",
+			"getKey",
+			"fileName",
+			"getKey",
+			"options",
+			"1,5",
+			"bgndImg",
+			"init",
+			"init(",
+			"init ",
+			"init(",
+			"init",
+			";}",
+			"1,5",
+			"; }",
+			"; ",
+			"\"display\"",
+			"staggerFrom",
+			"36",
+			"120",
+			"43",
+			"129",
+			"162",
+			"38",
+			"39",
+			"163",
+			"43",
+			"164",
+			"43",
+			"terms",
+			"65",
+			"104",
+			"background-size:",
+			"  z-index:",
+			"90",
+			"728",
+			"90",
+			"728",
+			"3",
+			"background-size: ",
+			"z-index:",
+			"40",
+			"191",
+			"339",
+			"250",
+			"970",
+			"250",
+			"970",
+			"0",
+			"ease:Cubic.easeIn",
+			"easeOut",
+			".8",
+			"600",
+			"300",
+			"z-index: ",
+			"600",
+			"replayTl",
+			"2",
+			"261",
+			"165",
+			"7",
+			"49",
+			"\tbackground-size:",
+			" 91",
+			"147",
+			"160",
+			"1",
+			"15",
+			"width",
+			"25",
+			"250",
+			"300",
+			"250",
+			"300",
+			"_popUpGap",
+			"'-='+",
+			"62",
+			"+=.25",
+			"clicker",
+			"cta",
+			"\n\t\t",
+			"cta",
+			"5",
+			"background-color: rg",
+			"width",
+			"_replaySpinSpeed",
+			"background-size",
+			"background-size:",
+			"90",
+			"728",
+			"_popUpGap",
+			"'1'//",
+			".5"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"frame3",
+			"3",
+			"12px",
+			"30px"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23,
+								304
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "javascript"
+							},
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/dist/Restore_Renew_Target_300x250/Restore_Renew_Target_300x250.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14719,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								489,
+								517
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 1,
+								"count": 376,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/lib/html/Restore_Renew.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1701,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								857,
+								857
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 28,
+								"count": 14,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/src/lib/css/global.css.hbs",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								413,
+								422
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "css"
+							},
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/eric.howell/Documents/Web Dev/_Testing/Gulp/gulp-compile-handlebars/config.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 648,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								638,
+								643
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "json"
+							},
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Gulp Handlebars Test.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"2",
+				"node_modules/readable-stream/doc/wg-meetings/2015-01-30.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/_EMAILS/Barclays/71235 ESG Email 2 Updates/project/Barclays ESG 2 Email2 Updates.sublime-project"
+			],
+			[
+				"boots",
+				"~/Documents/_H5_WORK/Boots/71130 Restore Renew v2/project/Boots Restore v2 Banners.sublime-project"
+			],
+			[
+				"gulp",
+				"~/Documents/Web Dev/_Testing/GulpTest/GulpTest.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 353.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

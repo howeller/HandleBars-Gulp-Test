@@ -1,0 +1,30 @@
+{
+	"Restore_Renew_Target_300x250" : {
+		"sharedFile" : "Restore_Renew_300x250",
+		"width" : 300,
+		"height" : 250,
+		"endLogo" : "target.svg",
+		"replay" : true
+	},
+	"Restore_Renew_Walgreens_300x250" : {
+		"sharedFile" : "Restore_Renew_300x250",
+		"width" : 300,
+		"height" : 250,
+		"endLogo" : false,
+		"replay" : true
+	},
+	"Restore_Renew_Target_160x600" : {
+		"sharedFile" : "Restore_Renew_160x600",
+		"width" : 160,
+		"height" : 600,
+		"endLogo" : "target.svg",
+		"replay" : true
+	},
+	"Restore_Renew_Target_320x50" : {
+		"sharedFile" : "Restore_Renew_320x50",
+		"width" : 320,
+		"height" : 50,
+		"endLogo" : "target.svg",
+		"replay" : false
+	}
+}

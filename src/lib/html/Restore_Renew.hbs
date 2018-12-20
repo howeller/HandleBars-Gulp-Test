@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="ad.size" content="width={{width}},height={{height}}">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
+	<title>{{fileName}}</title>
+	<script src="https://s0.2mdn.net/ads/studio/cached_libs/tweenmax_1.20.4_3dc5474a75410cb768741e402b80d908_min.js"></script>
+	<link rel="stylesheet" href="{{fileName}}.css">
+	<style>
+		{{> global.css }}
+		{{> (sharedCss) }}
+		{{> (bannerCss) }}
+	</style>
+</head>
+<body>
+	<div id="ad" class="border full-size">
+		<div id="txt1" class="cmn"></div>
+		<div id="txt2" class="cmn"></div>
+		<div id="txt3" class="cmn"></div>
+		<div id="txt4" class="cmn"></div>
+		<div id="txt5" class="cmn"></div>
+		<div id="legal" class="cmn"></div>
+		{{> no7_logo_white.svg}}
+
+		<div id="serumResolve" class="cmn"></div>
+		<div id="logo2" class="full-size cmn">
+		{{#if endLogo}}
+			{{> (endLogo)}}
+		{{/if}}
+
+		</div>
+		{{> cta.svg}}
+
+		<div id="serumHolderTop" class="serum cmn full-size"></div>
+		<div id="serumHolderBtm" class="serum cmn full-size"></div>
+		<div id="clicker" class="cmn full-size"></div>
+		{{#if replay}}
+		<div id="replay" class="cmn">
+			{{> replayArrow.svg}}
+
+		</div>
+		{{/if}}
+	</div>
+	<script language="javascript">
+		var clickTag = 'https://www.google.com';
+
+		function bannerBgClicked() {
+			window.open(window.clickTag);
+		}
+
+		(function(window, document){
+
+		{{> (sharedJs) }}
+		{{#if replay}}
+
+		{{> replay.js }}
+		{{/if}}
+		
+			window.addEventListener('load', init);
+		})(window, document);
+
+	</script>
+	<script src="{{fileName}}.js"></script>
+</body>
+</html>

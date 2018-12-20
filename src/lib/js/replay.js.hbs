@@ -1,0 +1,26 @@
+	/*
+		Replay Button actions
+	*/
+	function initReplayAction(){
+		replay.addEventListener('click', onReplayClick, false);
+		replay.addEventListener('mouseenter', onReplayOver);
+	}
+	function onReplayClick(){
+		console.log('onReplayClick');
+		replayTl = replayAni();
+		tl.add(replayTl);
+	}
+	function replayUnit(){
+		tl.restart();
+		tl.remove(replayTl);
+	}
+	function onReplayOver(){
+		if (replayAnim)return;
+		replayAnim = true;
+		TweenMax.to(replayArrow, 1, { rotation: 720, ease:Sine.easeInOut, onComplete:resetReplayBtn });
+	}
+	function resetReplayBtn(){
+		replayAnim = false;
+		TweenMax.set(replayArrow, {rotation: 0}); 
+	}
+	

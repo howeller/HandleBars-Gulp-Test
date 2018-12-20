@@ -1,0 +1,106 @@
+	var ad = document.getElementById('ad'),
+			serumTop = document.getElementById('serumHolderTop'),
+			serumBtm = document.getElementById('serumHolderBtm'),
+			serumResolve = document.getElementById('serumResolve'),
+			legal = document.getElementById('legal'),
+			logo = document.getElementById('logo'),
+			logo2 = document.getElementById('logo2'),
+			cta = document.getElementById('cta'),
+			replayBtn = document.getElementById('replay'),
+			replayTl,
+			tl = new TimelineMax();
+
+	var _stageW = 160,
+			spdSlide = .8,
+			_framePause = '2.2',
+			_closePause = '0.5',
+			serumSlideDistance = 220,
+			_overshoot = (_stageW - serumSlideDistance),
+			spdFade = 0.0875,
+			resolveFadeStep = spdFade*.75,
+			replayed = false,
+			replayAnim = false;
+
+	function init(){
+		document.getElementById('clicker').addEventListener('click', bannerBgClicked, false);
+		animate();
+	}
+	function serumOut(){
+		var _tl = new TimelineMax();
+
+		return _tl.add('start')
+							.to(serumTop, spdSlide, {x:-serumSlideDistance, ease:Cubic.easeIn},'start')
+							.to(serumBtm, spdSlide, {x:serumSlideDistance, ease:Cubic.easeIn},'start');
+	}
+	function serumIn(){
+		var _tl = new TimelineMax();
+
+		return _tl.add('start')
+							.to(serumTop, spdSlide, {x:0, ease:Cubic.easeOut},'start')
+							.to(serumBtm, spdSlide, {x:_overshoot, ease:Cubic.easeOut},'start');
+	} 
+	function frameIn(frameNum){
+		var _tl = new TimelineMax(),
+				_txt = document.getElementById('txt'+frameNum);
+
+			return _tl.add('start')
+					.add(serumOut(), 'start')
+					.from(_txt, spdFade, {autoAlpha:0},'-=.3')
+					.to(logo, spdFade, {autoAlpha:1},'-=.3');
+	}
+	function frameOut(frameNum){
+		var _tl = new TimelineMax(),
+				_txt = document.getElementById('txt'+frameNum);
+
+			return _tl.add('start')
+					.add(serumIn, 'start')
+					.staggerTo([logo,_txt], spdFade, {autoAlpha:0},.025,'start+=.05')//fade out
+	}
+	function animate() {
+
+		var _frame1Out = frameOut('1'),
+				_frame2In = frameIn('2'),
+				_frame2Out = frameOut('2'),
+				_frame3In = frameIn('3'),
+				_frame3Out = frameOut('3'),
+				_frame4In = frameIn('4'),
+				_frame4Out = frameOut('4'),
+				_frame5In = frameIn('5');
+				console.log('animate');
+
+		tl.set(ad,{autoAlpha:1})
+			.set(serumTop, {x:-serumSlideDistance})
+			.set(serumBtm, {x:serumSlideDistance})
+			.add('frame1')
+			.from('#txt1', spdFade, {autoAlpha:0},'frame1')
+			.add(_frame1Out, '+=1.8')
+			.add('frame2','+='+_closePause)
+			.add(_frame2In,'frame2')
+			.add(_frame2Out, '+='+_framePause)
+			.add('frame3','+='+_closePause)
+			.add(_frame3In,'frame3')
+			.add(_frame3Out, '+='+_framePause)
+			.add('frame4','+='+_closePause)
+			.add(_frame4In,'frame4')
+			.add(_frame4Out, '+='+_framePause)
+			.add('end','+='+_closePause)
+			.add(_frame5In, 'end')
+			.staggerFrom([cta,logo2,legal,serumResolve], spdFade, {autoAlpha:0},resolveFadeStep)
+			.from(replayBtn, .7, {autoAlpha:0},'+=0.175')
+			.add(initReplayAction)
+			// .seek('end')
+			;
+			console.log('Animation Runtime is ' + tl.endTime());
+	}
+	/*
+		Replay Timeline Animation
+	*/
+	function replayAni(){
+		console.log('replayAni');
+		var _tl = new TimelineMax();
+
+		_tl.add('start')
+			 .staggerTo([txt5, cta, legal, logo2, serumResolve, replayBtn], .5,{ autoAlpha:0}, 0.1, 'start')
+			.add(replayUnit,'+=.1');
+		return _tl;
+	}
