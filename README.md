@@ -11,23 +11,27 @@ Workflow for using Gulp & Handlebars templates for banner production
 - [merge-stream](https://www.npmjs.com/package/merge-stream)
 - [path](https://www.npmjs.com/package/path)
 
+## Setup
+1) Clone this repo  or copy `gulpfile.js`,`package.json` and `package-lock.json` to the root of your project folder.
+
+2) In Terminal - navigate to your project folder and run `npm install` to download all of the npm packages.
+
 ## Usage
-In Terminal
 
 To run the build
 
-```bash
+```cli
 gulp
 ```
 
 To run the build automatically each time a file is saved
 
-```bash
+```cli
 gulp watch
 ```
 
 To build and zip all files
 
-```bash
+```cli
 gulp zip
 ```
