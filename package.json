@@ -1,5 +1,5 @@
 {
-  "name": "gulp-compile-handlebars Test",
+  "name": "gulp-compile-handlebars-test",
   "version": "1.0.0",
   "description": "banners",
   "main": "index.js",
